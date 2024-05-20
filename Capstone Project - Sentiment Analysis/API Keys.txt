@@ -1,5 +1,0 @@
-#Assigning the keys
-#consumer_key = 'NpIDHs0vgafOJDOc2dTAoQvH1'
-#consumer_secret = 'DtSA3r5G8lmycSS6XlPBlZCWtjmb9yql96odmQAuz5Zmglg3Go'
-#access_token = '1867200684-oyzpLZRsAFLWt9H5xeAJOpa93GrX7BQgocztNtS'
-#access_token_secret = 'f5W9O88ibCIQGy0pkzHgo3dsfwgdlCbSS3C5E1D1KVaPm'
