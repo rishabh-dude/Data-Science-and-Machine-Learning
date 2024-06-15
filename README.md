@@ -1,0 +1,1 @@
+The repository is a compilation of all my completed projects and assignments in the fields of data science and machine learning. The projects are focused on various topics, including Python, SQL, and Machine Learning, showcasing my proficiency in working with these technologies.
